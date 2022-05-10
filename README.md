@@ -1,4 +1,4 @@
-# AutoCHESS-System - Project from May 2021
+# AutoCHESS-System - Project from 2021
 AutoCHESS System segments
 
 # Description:
